@@ -1,6 +1,7 @@
 Progressive Web Application of Weather Info Developed with React has Passed all the Tests on Google LightHouse 
-Deployment : [https://weatherclue.netlify.app/](https://weatherclue.netlify.app/)
-![](public/images/Weather%20-App%20By%20Isaac.png)
+
+Deployment : [https://weatherforcasting-pawanrajput.netlify.app/](https://weatherforcasting-pawanrajput.netlify.app/)
+![Screenshot (43)](https://user-images.githubusercontent.com/110086934/236208559-e6871584-48c7-432b-9bd4-c2626296ec1a.png)
 
 This Weather Application takes a Query of the city Name and Returns the Information in a Card Structure
 As a PWA it has the ABility to be  installed to the COmputer by Pressing the install button in the address bar after loading the store
