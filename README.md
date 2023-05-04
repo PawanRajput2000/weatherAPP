@@ -5,7 +5,7 @@ Deployment : [https://weatherforcasting-pawanrajput.netlify.app/](https://weathe
 
 This Weather Application takes a Query of the city Name and Returns the Information in a Card Structure
 As a PWA it has the ABility to be  installed to the COmputer by Pressing the install button in the address bar after loading the store
-![](public/images/install%20app.png)
+![image](https://user-images.githubusercontent.com/110086934/236211290-afd16e23-c2f0-47ef-a53d-6f0ac3e85a04.png)
 
 How Coool is that I know CYberWarrior with some online Tuts has COmpleted Bilding a  PWA's after installation it Gives A Application interface like in the PC
 
