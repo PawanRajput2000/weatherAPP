@@ -9,8 +9,8 @@ As a PWA it has the ABility to be  installed to the COmputer by Pressing the ins
 
 How Coool is that I know CYberWarrior with some online Tuts has COmpleted Bilding a  PWA's after installation it Gives A Application interface like in the PC
 
-![](public/images/App%20interface.png)
+![image](https://user-images.githubusercontent.com/110086934/236209061-570b62f7-5faa-4fca-91a0-6cac63545316.png)
 
 ### Deployment Of Weather Clue
 
-This section has moved here: [https://weatherclue.netlify.app/](https://weatherclue.netlify.app/)
+This section has moved here:  [https://weatherforcasting-pawanrajput.netlify.app/](https://weatherforcasting-pawanrajput.netlify.app/)
