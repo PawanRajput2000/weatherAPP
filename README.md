@@ -1,6 +1,6 @@
 Progressive Web Application of Weather Info Developed with React has Passed all the Tests on Google LightHouse 
 
-Deployment : [https://weatherforcasting-pawanrajput.netlify.app/](https://weatherforcasting-pawanrajput.netlify.app/)
+Deployment : [https://weatherapp-pawanrajput.netlify.app//](https://weatherapp-pawanrajput.netlify.app/)
 ![Screenshot (43)](https://user-images.githubusercontent.com/110086934/236208559-e6871584-48c7-432b-9bd4-c2626296ec1a.png)
 
 This Weather Application takes a Query of the city Name and Returns the Information in a Card Structure
@@ -13,4 +13,4 @@ How Coool is that I know CYberWarrior with some online Tuts has COmpleted Bildin
 
 ### Deployment Of Weather Clue
 
-This section has moved here:  [https://weatherforcasting-pawanrajput.netlify.app/](https://weatherforcasting-pawanrajput.netlify.app/)
+This section has moved here:  [https://weatherapp-pawanrajput.netlify.app//](https://weatherapp-pawanrajput.netlify.app/)
